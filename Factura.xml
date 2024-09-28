@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+    <empresa>
+        <nombreNegocio>Nombre de la empresa</nombreNegocio>
+        <direccionCalle>Dirección de la calle</direccionCalle>
+        <ciudadEstadoCodigoPostal>Ciudad, Estado, Código Postal</ciudadEstadoCodigoPostal>
+        <telefono>(000) 000-0000</telefono>
+        <email>email@empresa.com</email>
+        <sitioWeb>www.empresa.com</sitioWeb>
+    </empresa>
+
+    <detallesFactura>
+        <numeroFactura>12345</numeroFactura>
+        <fechaFactura>mm/dd/yyyy</fechaFactura>
+        <terminosPago>Net 30</terminosPago>
+        <fechaVencimiento>mm/dd/yyyy</fechaVencimiento>
+    </detallesFactura>
+
+    <cliente>
+        <nombreCliente>Nombre del cliente</nombreCliente>
+        <direccionCalle>Dirección del cliente</direccionCalle>
+        <ciudadEstadoCodigoPostal>Ciudad, Estado, Código Postal</ciudadEstadoCodigoPostal>
+    </cliente>
+
+    <envio>
+        <nombreEnvio>Nombre del destinatario</nombreEnvio>
+        <direccionCalle>Dirección del destinatario</direccionCalle>
+        <ciudadEstadoCodigoPostal>Ciudad, Estado, Código Postal</ciudadEstadoCodigoPostal>
+    </envio>
+
+    <productosServicios>
+        <item>
+            <productoServicio>Producto o servicio</productoServicio>
+            <descripcion>Descripción del producto o servicio</descripcion>
+            <cantidad>0</cantidad>
+            <precioUnitario>0.00</precioUnitario>
+            <montoTotal>0.00</montoTotal>
+        </item>
+        <item>
+            <productoServicio>Producto o servicio</productoServicio>
+            <descripcion>Descripción del producto o servicio</descripcion>
+            <cantidad>0</cantidad>
+            <precioUnitario>0.00</precioUnitario>
+            <montoTotal>0.00</montoTotal>
+        </item>
+    </productosServicios>
+
+    <mensajeCliente>
+        ¡Hola! Gracias por su compra. Por favor, devuelva esta factura con el pago. ¡Gracias!
+    </mensajeCliente>
+
+    <totales>
+        <subtotal>0.00</subtotal>
+        <impuestoVentas>0.00</impuestoVentas>
+        <envio>0.00</envio>
+        <total>0.00</total>
+    </totales>
+</factura>

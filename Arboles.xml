@@ -1,0 +1,86 @@
+<arboles>
+    <arbol>
+        <nombreFormal>Acer monspessulanum</nombreFormal>
+        <nombreCasual>
+            <nombre>Arce de Montpellier</nombre>
+            <nombre>Arce menor</nombre>
+        </nombreCasual>
+        <vegetacion>Caducifolio</vegetacion>
+        <alturaArbol>6 a 10 metros</alturaArbol>
+        <forma>
+            <copa>Esférica</copa>
+            <tronco>
+                <principal>Recto</principal>
+                <bifurcaciones>Con bifurcaciones</bifurcaciones>
+            </tronco>
+            <ramaje>Colgante</ramaje>
+        </forma>
+        <colorPrimavera>
+            <haz>Verde brillante</haz>
+            <enves>Verde blanquecino</enves>
+        </colorPrimavera>
+        <resistenciaAlFrio>Heladas fuertes (hasta -15 grados centígrados)</resistenciaAlFrio>
+    </arbol>
+
+    <arbol>
+        <nombreFormal>Olea europea</nombreFormal>
+        <nombreCasual>Olivo</nombreCasual>
+        <vegetacion>Perenne</vegetacion>
+        <alturaArbol>8 a 15 metros</alturaArbol>
+        <forma>
+            <copa>Irregular</copa>
+            <tronco>
+                <principal>Irregular</principal>
+                <bifurcaciones>Con bifurcaciones</bifurcaciones>
+            </tronco>
+            <ramaje>Tortuoso</ramaje>
+        </forma>
+        <colorPrimavera>
+            <haz>Verde oscuro</haz>
+            <enves>Verde plateado</enves>
+        </colorPrimavera>
+        <resistenciaAlFrio>Heladas medias (hasta -10 grados centígrados)</resistenciaAlFrio>
+    </arbol>
+
+    <arbol>
+        <nombreFormal>Platanus orientalis</nombreFormal>
+        <nombreCasual>Plátano</nombreCasual>
+        <vegetacion>Caducifolio</vegetacion>
+        <alturaArbol>20 a 25 metros</alturaArbol>
+        <forma>
+            <copa>Ovoidal</copa>
+            <tronco>
+                <principal>Recto</principal>
+            </tronco>
+            <ramaje>Expandido</ramaje>
+        </forma>
+        <colorPrimavera>
+            <haz>Verde medio</haz>
+            <enves>Verde claro</enves>
+        </colorPrimavera>
+        <color_otonio>Ocre</color_otonio>
+        <resistenciaAlFrio>Heladas fuertes (hasta -20 grados centígrados)</resistenciaAlFrio>
+    </arbol>
+
+    <arbol>
+        <nombreFormal>Quercus ilex</nombreFormal>
+        <nombreCasual>Encina</nombreCasual>
+        <vegetacion>Perenne</vegetacion>
+        <alturaArbol>En torno a 25 metros</alturaArbol>
+        <forma>
+            <copa>Esférica o elíptica irregular</copa>
+            <tronco>
+                <principal>Recto</principal>
+            </tronco>
+            <ramaje>Tortuoso</ramaje>
+        </forma>
+        <colorPrimavera>
+            <jovenes>Plateado en hojas jóvenes</jovenes>
+            <antiguas>
+                <haz>Verde oscuro</haz>
+                <enves>Plateado</enves>
+            </antiguas>
+        </colorPrimavera>
+        <resistenciaAlFrio>Heladas fuertes (hasta -15 grados centígrados)</resistenciaAlFrio>
+    </arbol>
+</arboles>
